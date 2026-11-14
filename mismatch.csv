@@ -1,0 +1,4 @@
+benefit,period,dim,diff,rows
+B02,2026-01-12~2026-01-18,发放侧多,1,grants.csv:129
+B05,2026-01-19~2026-01-25,核销侧多,-1,redemptions.csv:110
+B07,2026-01-05~2026-01-11,库存侧少,1,grants.csv:56
